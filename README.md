@@ -83,5 +83,3 @@ Building the platform required advanced **Python and C programming**, secure API
 **Interested in seeing AETHERIUS in action?**
 
 Send me a message to schedule a confidential walkthrough.
-
-WARNING: Fraudsters/Scammers Beware.
