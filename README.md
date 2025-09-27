@@ -1,4 +1,3 @@
-# Flagship Project
 # CODENAME: AETHERIUS
 
 ### An AI-Driven Purple Team Automation Platform
@@ -15,7 +14,9 @@
 
 ## Overview
 
-**Project ShatterPoint** is an AI-driven framework designed to discover a system's critical vulnerability—its "ShatterPoint." It's an AI mentor that blends offensive strategy with automated defensive playbook generation through a conversational core.
+**AETHERIUS** is an AI-driven framework designed to discover a system's critical vulnerability: its "ShatterPoint." 
+
+It's an AI mentor that blends offensive strategy with automated defensive playbook generation through a conversational core.
 
 This platform simulates, executes, and analyzes cybersecurity scenarios from both offensive (red team) and defensive (blue team) perspectives, all orchestrated by a central AI. It's not just a tool; it's a strategic system that embodies a complete security philosophy.
 
@@ -23,7 +24,7 @@ This single, ambitious project serves as a powerful testament to my skills and v
 
 ## Core Philosophy: The Operator & The Architect ☯️
 
-I did not make this project fully automated due to the incredible risks involved. An unattended offensive AI is both unintelligent and messy. Instead, ShatterPoint is built on a principle of balance.
+I did not make this project fully automated due to the incredible risks involved. An unattended offensive AI is both unintelligent and messy. Instead, AETHERIUS is built on a principle of balance.
 
 **The AI is the architect. You are the operator.**
 
