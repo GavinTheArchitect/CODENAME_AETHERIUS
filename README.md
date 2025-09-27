@@ -80,6 +80,6 @@ Building the platform required advanced **Python and C programming**, secure API
 
 ### Request a Private Demonstration
 
-**Interested in seeing ShatterPoint in action?**
+**Interested in seeing AETHERIUS in action?**
 
-Send me a message to schedule a confidential walkthrough.
+Send me a message to schedule a confidential walkthrough. But realize that I will be able to detect if you are a fraudster and you will be investigated through proper channels.
