@@ -45,7 +45,7 @@ The project's drive is a continuous feedback loop between the AI mentor and the 
 
 This single project is the perfect canvas to demonstrate my entire, multifaceted skill set.
 
-#### 🧠 Polymath Genius: Strategic, Real-Time Analysis
+#### 🧠 Multi-Domain Intelligence: Strategic, Real-Time Analysis
 The AI has the capability to query the current date and time to form a comprehensive attack based on the **politics, business, media, and psychology** of the current world by leveraging real-time search capabilities.
 
 #### 🔴 Offensive Security & Red Teaming
@@ -82,4 +82,6 @@ Building the platform required advanced **Python and C programming**, secure API
 
 **Interested in seeing AETHERIUS in action?**
 
-Send me a message to schedule a confidential walkthrough. But realize that I will be able to detect if you are a fraudster/scammer and you will be investigated through proper channels.
+Send me a message to schedule a confidential walkthrough.
+
+WARNING: Fraudsters/Scammers Beware.
