@@ -1,3 +1,5 @@
+![AETHERIUS](./Logo.png)
+
 # CODENAME: AETHERIUS
 
 ### An AI-Driven Purple Team Automation Platform
