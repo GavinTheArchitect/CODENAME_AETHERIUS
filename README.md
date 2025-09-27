@@ -55,7 +55,7 @@ The platform includes a module for **AI-generated attack plans**. The AI analyze
 The core of the platform is an **AI strategist**. This showcases my ability to not just use AI, but to architect systems where AI acts as a "force multiplier," automating complex analysis that would normally take a human team weeks.
 
 #### 💻 OS Internals & System Hardening
-The platform is designed to be distributed as a hardened, custom Linux environment (a "distro" or containerized system). This demonstrates my deep knowledge of OS internals, secure infrastructure, and system hardening. It will likely be a custom Kali Linux XFCE version with the toolset embedded, distributed as a `.vmdk` for VMware.
+The platform is designed to be distributed as a hardened, custom Linux environment (a "distro" or containerized system). This demonstrates my deep knowledge of OS internals, secure infrastructure, and system hardening. It is a custom Kali Linux XFCE version with the toolset embedded, distributed as a `.vmdk` for VMware.
 
 #### 🔵 Defensive Capabilities & Blue Teaming
 A key feature is the **AI-driven defensive playbook**. After an attack simulation, the AI analyzes the results and automatically generates hardening scripts, firewall rules, and detection signatures, showcasing my "purple-shaded duality."
