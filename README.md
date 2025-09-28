@@ -46,7 +46,7 @@ The project's drive is a continuous feedback loop between the AI mentor and the 
 This single project is the perfect canvas to demonstrate my entire, multifaceted skill set.
 
 #### 🧠 Multi-Domain Intelligence: Strategic, Real-Time Analysis
-The AI has the capability to query the current date and time to form a comprehensive attack based on the **politics, business, media, and psychology** of the current world by leveraging real-time search capabilities.
+The AI has the capability to query the current date and time to form a comprehensive attack based on the **politics, business, media, and psychology** of the current world by leveraging real-time search capabilities. The AI also looks at the entire world history of the human race and not just current events to make decisions.
 
 #### 🔴 Offensive Security & Red Teaming
 The platform includes a module for **AI-generated attack plans**. The AI analyzes a target's profile (gleaned from OSINT) and devises multi-stage attack chains, demonstrating my red team and threat-hunting mindset.
