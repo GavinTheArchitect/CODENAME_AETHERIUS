@@ -1,6 +1,5 @@
 ![AETHERIUS](./Logo.png)
 
-
 ### An AI-Driven Purple Team Automation Platform
 
 > ⚠️ **Confidential & Proprietary Project** ⚠️
